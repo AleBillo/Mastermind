@@ -1,0 +1,15 @@
+C:\Users\utente\source\repos\lezione7\bin\Debug\lezione7.exe.config
+C:\Users\utente\source\repos\lezione7\bin\Debug\lezione7.exe
+C:\Users\utente\source\repos\lezione7\bin\Debug\lezione7.pdb
+C:\Users\utente\source\repos\lezione7\obj\Debug\lezione7.csprojAssemblyReference.cache
+C:\Users\utente\source\repos\lezione7\obj\Debug\MainWindow.g.cs
+C:\Users\utente\source\repos\lezione7\obj\Debug\App.g.cs
+C:\Users\utente\source\repos\lezione7\obj\Debug\lezione7_MarkupCompile.cache
+C:\Users\utente\source\repos\lezione7\obj\Debug\lezione7_MarkupCompile.lref
+C:\Users\utente\source\repos\lezione7\obj\Debug\MainWindow.baml
+C:\Users\utente\source\repos\lezione7\obj\Debug\lezione7.g.resources
+C:\Users\utente\source\repos\lezione7\obj\Debug\lezione7.Properties.Resources.resources
+C:\Users\utente\source\repos\lezione7\obj\Debug\lezione7.csproj.GenerateResource.cache
+C:\Users\utente\source\repos\lezione7\obj\Debug\lezione7.csproj.CoreCompileInputs.cache
+C:\Users\utente\source\repos\lezione7\obj\Debug\lezione7.exe
+C:\Users\utente\source\repos\lezione7\obj\Debug\lezione7.pdb
